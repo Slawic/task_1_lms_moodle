@@ -1,0 +1,7 @@
+# vagrant sysinfo
+.vagrant/
+# patches
+*.box
+# test scripts
+*.tst
+
